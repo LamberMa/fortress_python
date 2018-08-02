@@ -1,0 +1,15 @@
+# Python:
+*.py[cod]
+*.pyc
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# Pycharm:
+/.idea/
+
+# Pipenv
+Pipfile
+Pipfile.lock
